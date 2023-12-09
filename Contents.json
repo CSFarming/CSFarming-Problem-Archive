@@ -3,17 +3,17 @@
     {
       "title" : "네트워크",
       "content": "Network",
-      "url": ""
+      "url": "https://raw.githubusercontent.com/CSFarming/CSFarming-Problem-Archive/master/Network/Contents.json"
     },
     {
       "title" : "알고리즘",
       "content": "Algorithm",
-      "url": ""
+      "url": "https://raw.githubusercontent.com/CSFarming/CSFarming-Problem-Archive/master/Algorithm/Contents.json"
     },
     {
-      "title" : "네트워크",
+      "title" : "운영체제",
       "content": "Operating System (OS)",
-      "url": ""
+      "url": "https://raw.githubusercontent.com/CSFarming/CSFarming-Problem-Archive/master/OS/Contents.json"
     }
   ]
 }
