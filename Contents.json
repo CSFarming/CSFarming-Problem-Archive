@@ -3,19 +3,19 @@
     {
       "title" : "네트워크",
       "content": "Network",
-      "directory": "Network"
+      "directory": "Network",
       "type": "list"
     },
     {
       "title" : "알고리즘",
       "content": "Algorithm",
-      "directory": "Algorithm"
+      "directory": "Algorithm",
       "type": "list"
     },
     {
       "title" : "운영체제",
       "content": "Operating System (OS)",
-      "directory": "OS"
+      "directory": "OS",
       "type": "list"
     }
   ]
