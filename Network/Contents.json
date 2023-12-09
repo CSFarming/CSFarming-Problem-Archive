@@ -3,7 +3,7 @@
     {
       "title" : "네트워크 계층",
       "content": "OSI & TCP/IP",
-      "directory": "Network/NetworkLayer"
+      "directory": "Network/NetworkLayer",
       "type": "question"
     }
   ]
