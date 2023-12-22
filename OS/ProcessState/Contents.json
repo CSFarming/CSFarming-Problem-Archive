@@ -1,0 +1,25 @@
+{
+    "id": 2,
+    "contents" : [
+        {
+            "question" : "프로세스가 생성 되었지만 아직 OS의 승인을 받지 못한 상태",
+            "answer" : "생성(new) 상태"
+        },
+        {
+            "question" : "OS의 할당을 받아 Ready Queue에 들어가 있는 상태",
+            "answer" : "준비(ready) 상태. 준비 큐에서 CPU의 할당을 기다리고 있는 상태"
+        },
+        {
+            "question" : "Ready Queue에 있는 프로세스가 CPU를 점유하게 되는 것",
+            "answer" : "디스패치(dispatch). 준비 상태에서 실행 상태로 바뀌는 것"
+        },
+        {
+            "question" : "CPU의 할당을 받아 실행 중인 상태",
+            "answer" : "실행(running) 상태"
+        },
+        {
+            "question" : "입출력 또는 이벤트를 대기하는 상태",
+            "answer" : "대기(waiting) 상태"
+        }
+    ]
+}
