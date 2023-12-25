@@ -1,5 +1,6 @@
 {
     "id": 2,
+    "category": "OS",
     "contents" : [
         {
             "question" : "프로세스가 생성 되었지만 아직 OS의 승인을 받지 못한 상태",
